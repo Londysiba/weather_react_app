@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           
           <a
-            href="https://github.com/Londysiba/weather_react"
+            href="https://github.com/Londysiba/weather_react_app"
             target="_blank"
             rel="noopener noreferrer"
           >
