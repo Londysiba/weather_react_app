@@ -18,6 +18,27 @@ Integrating external APIs to fetch weather data and display it dynamically.
 
 Implementing responsive design principles for a seamless user experience across devices.
 
+# Technologies Used
+React.js
+
+HTML/CSS
+
+Axios
+
+JavaScript (ES6+)
+
+Axios (for API requests)
+
+Bootstrap
+
+Git & GitHub (for version control)
+
+Netlify for hosting
+
+Weather API
+
+Google maps API
+
 
 # Getting Started with Create React App
 
